@@ -11,14 +11,14 @@ html {
   background-color: transparent;
 }
 
-.btn-light {
-  background-color: lightgreen;
-  border-color: lightgreen;
-}
-
 .btn:hover {
   background-color: darkgreen;
   border-color: darkgreen;
+}
+
+.btn-light {
+  background-color: lightgreen;
+  border-color: lightgreen;
 }
 
 .btn-ghost:hover {
